@@ -1,6 +1,6 @@
 # Applicant Role-Fit Classifier
 
-> A machine learning project born from a simple frustration: applying to dozens of jobs and having no idea which ones I actually stood a chance at.
+> A machine learning project born from a cheer determination: Applying to dozens of jobs and having no idea which ones I actually stood a chance at.
 
 ## Why I built this
 
