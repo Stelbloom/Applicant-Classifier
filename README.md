@@ -64,4 +64,4 @@ If you're an applicant who's also tired of the spray-and-pray approach to job hu
 
 ## Disclaimer
 
-This model is trained on synthetic data and is intended as a decision-support tool, not a replacement for human judgment in hiring or job searching. Real-world deployment would require training on real, anonymized, and ethically sourced data, along with careful bias auditing.
+This model is trained on simulated data and is intended as a decision-support tool, not a replacement for human judgment in hiring or job searching. Real-world deployment would require training on real, anonymized, and ethically sourced data, along with careful bias auditing.
