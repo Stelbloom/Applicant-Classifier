@@ -42,6 +42,12 @@ After comparing Random Forest, Gradient Boosting, and Decision Tree, Random Fore
 
 Real hiring data isn't evenly distributed — most applicants clear the interview bar, fewer are a strong match, and very few are the best possible fit. This project includes an imbalanced dataset and demonstrates two standard techniques for handling it: SMOTE (synthetic oversampling) and class-weight balancing, both applied correctly so the test set always reflects reality.
 
+Feature Engineering: Using TF-IDF Vectorizer.
+
+Model Evaluation: Evaluated using Precision, Recall, and F1-Score to handle class imbalances in applicants data. 
+
+Hyperparameter Tuning: GridSearchCV 
+
 ## Getting started
 
 ```bash
