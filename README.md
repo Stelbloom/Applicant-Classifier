@@ -8,11 +8,11 @@ I started this project as a job applicant, not as a data scientist looking for a
 
 So I asked a simple question: **what if I could predict, before applying, whether I was actually a strong fit for a role?**
 
-That question turned into this project — a multi-class classification model that takes an applicant's profile (experience, skills, education, certifications, soft-skill scores, and more) and predicts one of three outcomes:
+That question turned into this project - a multi-class classification model that takes an applicant's profile (experience, skills, education, certifications, soft-skill scores, and more) and predicts one of three outcomes:
 
-- **Best Suited for Role** — a strong, high-confidence fit
-- **Best Match for Role** — a solid fit worth pursuing
-- **Will Get Interview** — meets the bar for a first conversation, but may need more to go further
+- **Best Suited for Role** - a strong, high-confidence fit
+- **Best Match for Role** - a solid fit worth pursuing
+- **Will Get Interview** - meets the bar for a first conversation, but may need more to go further
 
 The goal isn't to discourage anyone from applying. It's to help applicants (and recruiters) prioritize where time and effort go.
 
